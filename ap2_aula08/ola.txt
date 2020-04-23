@@ -1,0 +1,2 @@
+Olá Galerinha, boa noite!
+Bem-vindos na aula de manipulação de arquivos em Python.
